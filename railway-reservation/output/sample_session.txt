@@ -1,0 +1,117 @@
+===== RAILWAY RESERVATION SYSTEM =====
+
+1. Register
+2. Login
+3. Search Trains
+4. Exit
+Choice: Username: Password:   [!] Invalid username or password.
+
+1. Register
+2. Login
+3. Search Trains
+4. Exit
+Choice: Username: Password: Full name: Email: Account created. You can log in now.
+
+1. Register
+2. Login
+3. Search Trains
+4. Exit
+Choice: Username: Password: Welcome, Rita Hoxha!
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Train number: Date (yyyy-mm-dd): Passenger name: Age: Gender (M/F/O): 
+===== BOOKING CONFIRMATION =====
+Booking ID : 1
+Passenger  : Rita Hoxha (29, F)
+Train      : 12001 Capital Express (Tirana -> Durres)
+Journey    : 2026-11-28  dep 07:00  arr 08:10
+Seat       : 1
+Booked on  : 2026-11-23 22:41
+Status     : CONFIRMED
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Train number: Date (yyyy-mm-dd): 39 seat(s) available: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Booking #1 | train 12001 | 2026-11-28 | Rita Hoxha (29, F) | seat 1 | CONFIRMED
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Booking id: Booking #1 cancelled. Seat released.
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Booking #1 | train 12001 | 2026-11-28 | Rita Hoxha (29, F) | seat - | CANCELLED
+
+--- Rita Hoxha ---
+1. Search Trains
+2. View All Trains / Schedules
+3. Check Seat Availability
+4. Book Ticket
+5. Cancel Ticket
+6. Booking History
+7. Check Ticket Status
+8. Cancellation History
+9. Search My Bookings
+10. Update Profile
+11. Logout
+Choice: Logged out.
+
+1. Register
+2. Login
+3. Search Trains
+4. Exit
+Choice: Goodbye!
